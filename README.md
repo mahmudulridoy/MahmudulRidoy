@@ -25,8 +25,8 @@
 
  &emsp;
   
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RidoyMahmudul&langs_count=5&theme=tokyonight)]()
-![Ridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=RidoyMahmudul&show_icons=true&theme=radical)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudulRidoy&langs_count=5&theme=tokyonight)]()
+![Ridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmudulRidoy&show_icons=true&theme=radical)
 
 
 
